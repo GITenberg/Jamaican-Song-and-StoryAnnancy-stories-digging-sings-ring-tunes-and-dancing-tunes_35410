@@ -1,0 +1,50 @@
+_repo: Jamaican-Song-and-StoryAnnancy-stories-digging-sings-ring-tunes-and-dancing-tunes_35410
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Werner, Alice
+    alias: Werner, A. (Alice)
+    birthdate: 1859
+    deathdate: 1935
+    gutenberg_agent_id: '44331'
+    url: http://www.gutenberg.org/2009/agents/44331
+  compiler:
+    agent_name: Jekyll, Walter
+    gutenberg_agent_id: '37656'
+    url: http://www.gutenberg.org/2009/agents/37656
+  contributors:
+  - agent_name: Myers, Charles S. (Charles Samuel)
+    alias: Myers, C. S. (Charles Samuel)
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '42944'
+    url: http://www.gutenberg.org/2009/agents/42944
+  - agent_name: Broadwood, Lucy Etheldred
+    alias: Broadwood, L. E. (Lucy Etheldred)
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '39110'
+    url: http://www.gutenberg.org/2009/agents/39110
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35410'
+  lccn: 07023639
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anansi (Legendary character)'
+- !lcsh 'Folk songs, English -- Jamaica'
+- !lcsh 'Folklore -- Jamaica'
+- !lcsh 'Folk music -- Jamaica'
+- !lcc 'GR'
+title: 'Jamaican Song and Story
+
+  Annancy stories, digging sings, ring tunes, and dancing tunes'
+url: http://www.gutenberg.org/ebooks/35410
